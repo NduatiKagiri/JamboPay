@@ -42,13 +42,13 @@ A text editor eg VS Code, Python 3.7.6, Postman
 - Create an Auth Token by sending a POST request with the login endpoint and your email and password as form data
 - Add the recieved token to the headers of all your future requests to the API
 
-## Authors
+## Author
 
 :bust_in_silhouette: **NduatiKagiri**
 
-GitHub: https://github.com/NduatiKagiri
-Twitter: https://twitter.com/NduatiKagiri
-LinkedIn: https://linkedin.com/in/nduati-kagiri/
+- GitHub: [@NduatiKagiri](https://github.com/NduatiKagiri)
+- Twitter: [@NduatiKagiri](https://twitter.com/NduatiKagiri)
+- LinkedIn: [nduati-kagiri](https://linkedin.com/in/nduati-kagiri/)
 
 ## :handshake: Contributing
 
